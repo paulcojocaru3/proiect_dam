@@ -1,7 +1,7 @@
 package telecom_suport.service;
 
 import org.springframework.stereotype.Service;
-import telecom_suport.entity.*;
+import telecom_suport.domain.*;
 import java.time.LocalDateTime;
 @Service
 public class AuditServiceImpl implements AuditService {

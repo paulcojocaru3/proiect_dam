@@ -1,7 +1,7 @@
 package telecom_suport.factory;
 
 import org.springframework.stereotype.Component;
-import telecom_suport.entity.*;
+import telecom_suport.domain.*;
 import java.time.LocalDateTime;
 @Component
 public class SolicitareFactory {
